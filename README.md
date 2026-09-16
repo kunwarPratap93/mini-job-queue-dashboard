@@ -2,6 +2,9 @@
 
 A full-stack monorepo application for managing background job states with robust optimistic concurrency control.
 
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mini-job-queue-dashboard-frontend-dun.vercel.app/)
+
 ## Overview & Tech Stack
 
 This project implements a robust job state machine and management dashboard. It ensures that concurrent modifications to job statuses are handled safely without data corruption or invalid state transitions.
